@@ -365,10 +365,9 @@ body{
 .footer h2{
     font-weight: normal;
     font-size: 1rem;
-    text-align:right;
+    text-align: center;
 }
 
 .footer img{
     height: 2rem;
-    
 }
