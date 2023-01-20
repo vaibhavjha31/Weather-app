@@ -355,7 +355,7 @@ body{
 
 .footer{
     background-color: white;
-    height: 12vh;
+    height: 8vh;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -365,9 +365,10 @@ body{
 .footer h2{
     font-weight: normal;
     font-size: 1rem;
+    text-align:right;
 }
 
 .footer img{
-    height: 3rem;
+    height: 2rem;
     
 }
